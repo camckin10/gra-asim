@@ -30,11 +30,28 @@ body {
 /*social media icons*/
 .fa-3x{
     color:  #5d2412;
+    padding: 5px;
 }
 
 /*Book section*/
 .book-section-title {
     text-align:center;
+}
+
+/*boyznthevoid section*/
+.new-release {
+    text-align:center;
+}
+
+.char2, .char3 {
+    color:#952a24;
+    font-size:2.1em;
+    font-weight:bold;
+
+}
+
+#book_info {
+    padding-left: 138px;
 }
 
 
