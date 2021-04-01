@@ -12,7 +12,13 @@
     <link href="style.css" rel="stylesheet">
     <!--Google font: Source Serif Pro-->
     <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap" rel="stylesheet">
+
+    <script>
+      $(document).ready(function(){
+        $(".about-title").lettering();
+      })
+    </script>
 
     <title></title>
   </head>
@@ -47,7 +53,8 @@
               <img src="images/GP-Pic.jpg" alt="bio-image">
             </div>
             <div class="col-md-6">
-              <h2 class="about-title">About</h2>
+              <h2 class="about-title">
+                <span class="char1">A</span>bout</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
               Aliquam feugiat nisi sit amet lacus malesuada, vestibulum maximus dolor vulputate. 
               In pharetra velit arcu, quis feugiat felis volutpat at. 
@@ -59,11 +66,10 @@
               Donec mollis non elit sed consectetur. Duis faucibus lectus massa, et finibus mauris gravida sit amet. 
               In elementum purus et lacinia egestas.
             </p>
-            <!--social media buttons-->
-            <button type="button" class="btn btn-outline-danger"><a href="">Resume/CV</a></button>
-            <button type="button" class="btn btn-outline-danger"><a href="">Facebook</a></button>
-            <button type="button" class="btn btn-outline-danger"><a href="">Twitter</a></button>
-            <!--social media font awesome icons-->
+            <!--social media icons-->
+            <i class="fab fa-instagram fa-3x"><a href=""></a></i>
+            <i class="fab fa-facebook fa-3x"><a href=""></a></i>
+            <i class="fab fa-twitter fa-3x"><a href=""></a></i>
             </div>
           </div> 
         </div>
@@ -73,6 +79,8 @@
         <!-- <div id="boyznthevoid" class=""></div> -->
         <div id="boyznthevoid" class="row">
           <h2 class="book-section-title">NEW RELEASE</h2>
+          <br>
+          <br>
             <div class="col-md-6">
               <h3 class="book-title">Boyz N The Void: a mixtape to my brother</h3>
               <p>
@@ -124,7 +132,14 @@
     https://afropunk.com/writer/graasim/
     https://graasim.bandcamp.com/ -->
 
+    
 
+
+    <!--font awesome link-->
+    <script src="https://kit.fontawesome.com/43c4689fe0.js" crossorigin="anonymous"></script>
+
+    <!--Jquery link-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
     <!--JS LINKS-->
     <!-- Optional JavaScript; choose one of the two! -->
