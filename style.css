@@ -1,0 +1,74 @@
+body {
+    font-family: 'Source Serif Pro', serif;
+}
+/*navbar menu*/
+#site-name{
+    color: #952a24;
+    font-size: 35px;
+}
+
+.nav-link {
+   color: #952a24 !important;
+   font-size:21px;
+   font-weight:bold;
+}
+
+/*About section*/
+.about-title {
+    color:#c2382d;
+    font-weight:bold;
+    font-size:25px;
+}
+
+
+/*colorpalettefrombookcover
+.color1 { color: #17181c}
+.color2 { color: #191b0e}
+.color3 { color: #ed832b}
+.color4 { color: #e96f2c}
+.color5 { color: #e7642e}
+.color6 { color: #fff6af}
+.color7 { color: #faef86}
+.color8 { color: #471013}
+.color9 { color: #b63329}
+.color10 { color: #c2382d}
+.color11 { color: #f7ccaa}
+.color12 { color: #cc492b}
+.color13 { color: #3c3334}
+.color14 { color: #d76334}
+.color15 { color: #1f170c}
+.color16 { color: #262014}
+.color17 { color: #30271e}
+.color18 { color: #f6d9ad}
+.color19 { color: #ffe5be}
+.color20 { color: #362420}
+.color21 { color: #8c3730}
+.color22 { color: #e95c2e}
+.color23 { color: #e04229}
+.color24 { color: #d9322c}
+.color25 { color: #efd3ac}
+.color26 { color: #f3d7b0}
+.color27 { color: #de3629}
+.color28 { color: #1a1b16}
+.color29 { color: #272113}
+.color30 { color: #22241f}
+.color31 { color: #0d1b1c}
+.color32 { color: #ecd6b1}
+.color33 { color: #ffe2bc}
+.color34 { color: #1a1915}
+.color35 { color: #952a24}
+.color36 { color: #ee8532}
+.color37 { color: #e1342e}
+.color38 { color: #cb3c1a}
+.color39 { color: #bf6c1e}
+.color40 { color: #e18441}
+.color41 { color: #f88e36}
+.color42 { color: #e6382f}
+.color43 { color: #1b1a16}
+.color44 { color: #171611}
+.color45 { color: #1d1c17}
+.color46 { color: #b9322c}
+.color47 { color: #e6e5e1}
+.color48 { color: #dd2c32}
+.color49 { color: #595451}
+*/
