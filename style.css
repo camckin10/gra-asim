@@ -128,10 +128,30 @@ body {
 
 
 /*footer*/
-footer {
+
+.footer-section {
+  background: #151414;
+  position: relative;
+}
+
+.copyright-area{
+  background: #202020;
+  padding: 25px 0;
+}
+.copyright-text p {
+  margin: 0;
+  font-size: 14px;
+  color: #878787;
+}
+.copyright-text p a{
+  color: #FEFEFA;
+}
+
+
+/* footer {
     background-color: #000000;
     color: #FEFEFA;
-}
+} */
 
 /*colorpalettefrombookcover
 .color1 { color: #17181c}
