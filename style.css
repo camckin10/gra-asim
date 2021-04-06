@@ -126,6 +126,11 @@ body {
   -webkit-transform: rotate(-45deg);
 } 
 
+/*reviews section*/
+.reviews {
+    font-size: 23px;
+
+}
 
 /*footer*/
 
