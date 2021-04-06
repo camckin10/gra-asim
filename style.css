@@ -8,12 +8,12 @@ body {
 } */
 
 #site-name{
-    color: #952a24;
+    color: #5d2412;
     font-size: 35px;
 }
 
 .nav-link {
-   color: #952a24 !important;
+   color: #5d2412 !important;
    font-size:21px;
    font-weight:bold;
 }
@@ -78,7 +78,7 @@ body {
 }
 
 .char2, .char3 {
-    color:#952a24;
+    color:#5d2412;
     font-size:2.1em;
     font-weight:bold;
 }
@@ -103,6 +103,29 @@ body {
     height:449px;
     width:364px;
 }
+
+.pre-order {
+    text-decoration: none;
+    color: #000000;
+    font-size: 31px;
+}
+
+.pre-order:hover {
+    color: #5d2412;
+}
+
+.arrow {
+    border: solid #000000;
+    border-width: 0 6px 6px 0;
+    display: inline-block;
+    padding: 9px;
+}
+
+ .right {
+    transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+} 
+
 
 /*footer*/
 footer {
