@@ -132,6 +132,7 @@ body {
 .footer-section {
   background: #151414;
   position: relative;
+  width:100%;
 }
 
 .copyright-area{
@@ -140,11 +141,15 @@ body {
 }
 .copyright-text p {
   margin: 0;
-  font-size: 14px;
+  font-size: 15px;
   color: #FEFEFA;
 }
 .copyright-text p a{
   color: #FEFEFA;
+}
+
+#fa-icons {
+    color:#ffffff;
 }
 
 
