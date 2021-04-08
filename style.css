@@ -7,15 +7,20 @@ body {
     background-color:#f5cea5;
 } */
 
+
+
 #site-name{
     color: #5d2412;
     font-size: 35px;
+    padding-left:110px;
+
 }
 
 .nav-link {
    color: #5d2412 !important;
-   font-size:21px;
+   font-size:25px;
    font-weight:bold;
+   padding-left:5px;
 }
 
 /*About section*/
@@ -25,13 +30,18 @@ body {
 
 
 .bio-image {
-    width:591px;
-    height:423px;
-    padding-left: 66px;
+    width:710px;
+    height:427px;
+    padding-left: 127px;
+}
+
+figcaption{
+    text-align:center;
 }
 
 #about-section {
     padding-left:10px;
+    padding-top: 89px;
 }
 
 .char1{
