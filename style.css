@@ -7,8 +7,6 @@ body {
     background-color:#f5cea5;
 } */
 
-
-
 #site-name{
     color: #5d2412;
     font-size: 38px;
@@ -90,7 +88,9 @@ figcaption{
     text-align:center;
 }
 
-.char2, .char3 {
+.char2, 
+.char3,
+.char4 {
     color:#5d2412;
     font-size:2.1em;
     font-weight:bold;
@@ -105,9 +105,11 @@ figcaption{
     font-size:25px;
 }
 
-.question {
-    font-weight: bold !important;
-}
+/* .main-idea {
+    /* font-weight: bold !important; */
+    /* color:#5d2412;
+} */
+
 
 #book_info {
     padding-left: 138px;
@@ -118,14 +120,14 @@ figcaption{
     width:364px;
 }
 
-.release-date {
+/* .release-date {
     font-size:15px;
-}
+} */
 
 .pre-order {
     text-decoration: none;
     color: #000000;
-    font-size: 31px;
+    font-size: 27px;
 }
 
 .pre-order:hover {
