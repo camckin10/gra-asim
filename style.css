@@ -7,9 +7,16 @@ body {
     background-color:#f5cea5;
 } */
 
+/*making images responsive*/
+.responsive {
+    width: 100%;
+    height: auto;
+    max-width:400px;
+  }
+
 #site-name{
     color: #5d2412;
-    font-size: 38px;
+    font-size: 3em;
     padding-left:110px;
 
 }
@@ -28,9 +35,8 @@ body {
 
 
 .bio-image {
-    width:700px;
-    height:427px;
-    padding-left: 125px;
+    width:360px;
+    height:438px;
 }
 
 figcaption{
@@ -98,9 +104,9 @@ figcaption{
     font-weight:bold;
 }
 
-#book-summary {
+/* #book-summary {
     padding-left:77px;
-}
+} */
 
 .book-title {
     font-weight: bold !important;
@@ -113,9 +119,9 @@ figcaption{
 } */
 
 
-#book_info {
+/* #book_info {
     padding-left: 138px;
-}
+} */
 
 .book-cover {
     height:449px;
@@ -149,7 +155,7 @@ figcaption{
 } 
 
 #summary-cont {
-    padding-left:1px;
+    padding-left:14px;
 }
 
 /*reviews section*/
