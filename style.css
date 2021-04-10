@@ -35,10 +35,11 @@ body {
 
 figcaption{
     text-align:center;
+    padding-left:161px;
 }
 
 #about-section {
-    padding-left:41px;
+    padding-left:84px;
     padding-top: 89px;
 }
 
@@ -90,7 +91,8 @@ figcaption{
 
 .char2, 
 .char3,
-.char4 {
+.char4,
+.char5 {
     color:#5d2412;
     font-size:2.1em;
     font-weight:bold;
@@ -100,7 +102,7 @@ figcaption{
     padding-left:77px;
 }
 
-.book-title{
+.book-title {
     font-weight: bold !important;
     font-size:25px;
 }
