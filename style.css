@@ -144,6 +144,18 @@ figcaption{
     font-size:15px;
 } */
 
+/*pre-order button*/
+#clickme{
+    background-color: #5d2412;
+    /* border:2px solid black; */
+    padding: 8px 20px;
+    text-decoration:none;
+    font-size:1.5em;
+    opacity:90%;
+    border-radius:5px;
+    color: #f5cea5;
+}
+
 .pre-order {
     text-decoration: none;
     color: #000000;
