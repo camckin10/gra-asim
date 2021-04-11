@@ -8,11 +8,14 @@ body {
 } */
 
 /*making images responsive*/
-.responsive {
-    width: 100%;
-    height: auto;
-    max-width:400px;
-  }
+@media only screen and (min-device-width: 400px) {
+    .responsive {
+        width: 100%;
+        height: auto;
+        /* max-width:400px; */
+      }
+}
+
 
 #site-name{
     color: #5d2412;
