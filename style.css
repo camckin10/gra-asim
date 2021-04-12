@@ -47,10 +47,10 @@ body {
     max-width:100%;
 }
 
-figcaption{
+/* figcaption{
     text-align:center;
     padding-left:161px;
-}
+} */
 
 #about-section {
     padding-left:60px;
@@ -75,6 +75,10 @@ figcaption{
 
 .about-text {
     font-size: 1em;
+}
+
+.bandname {
+    color:#5d2412;
 }
 
 
