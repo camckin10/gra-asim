@@ -227,9 +227,20 @@ body {
 
 
 /*press page*/
+
+.press-header {
+    width:100%;
+    padding:24px;
+}
+
 .press-titles {
     color: #5d2412;
 }
+
+.press-titles:hover {
+    color:#F4D8A2;
+}
+
 
 /* footer {
     background-color: #000000;
