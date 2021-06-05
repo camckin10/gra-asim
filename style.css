@@ -200,6 +200,22 @@ body {
     padding:28px;
 }
 
+/*press page*/
+
+.press-header {
+    width:100%;
+    padding:24px;
+}
+
+a.press-titles {
+    color: #5d2412 !important;
+}
+
+.press-titles:hover {
+    color:#F4D8A2;
+}
+
+
 /*footer*/
 
 .footer-section {
@@ -226,20 +242,20 @@ body {
 }
 
 
-/*press page*/
+/* press page
 
 .press-header {
     width:100%;
     padding:24px;
 }
 
-.press-titles {
-    color: #5d2412;
+a.press-titles {
+    color: #5d2412 !important;
 }
 
 .press-titles:hover {
     color:#F4D8A2;
-}
+} */
 
 
 /* footer {
