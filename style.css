@@ -207,11 +207,11 @@ body {
     padding:24px;
 }
 
-a.press-titles {
+#press-titles {
     color: #5d2412 !important;
 }
 
-.press-titles:hover {
+#press-titles:hover {
     color:#F4D8A2;
 }
 
