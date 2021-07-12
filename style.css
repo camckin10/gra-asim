@@ -164,10 +164,15 @@ body {
     text-decoration: none;
     color: #000000;
     font-size: 1.5em;
+    margin-left:70px
 }
 
 .pre-order:hover {
     color: #5d2412;
+}
+
+.pre-button {
+    margin-left: 93px;
 }
 
 .arrow {
