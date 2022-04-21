@@ -241,9 +241,14 @@ img{
 }
 
 /*bgbt page*/
+.bgbt-bio {
+    padding:10px;
+}
+
 #bgbt-media-links li{
     display:inline;
 }
+
 
 /*embedded videos*/
 /*border-radius: 15px;*/
