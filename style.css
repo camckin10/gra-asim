@@ -168,22 +168,6 @@ body {
 /*END INDEX PG*/
 
 
-/*event section--5/10/22*/
-.may-10th-title{
-    text-align: center;
-}
-
-img{
-    max-width:100%;
-}
-
-.event-cover {
-    width:310px;
-    height:300px;
-    float:left;
-    margin:3px 3px 6px 6px;
-    padding:3px 3px 5px 6px;
-}
 
 /*pre-order button*/
 #clickme{
@@ -267,9 +251,12 @@ nav {
 
 .video-title {
     font-family: 'Source Serif Pro', serif;
+    text-align: center;
 }
 
 .bgbt-bio {
+    font-size: 1.2em;
+    overflow:hidden;
     padding:15px;
     font-family: 'Source Serif Pro', serif;
 
@@ -286,7 +273,7 @@ nav {
 /*border-radius: 15px;*/
 /* extra div which gets the border  */
 .embed-border {
-    border: 5px solid #5d2412;
+    border: 11px solid #5d2412;
     border-radius: 20px;
     box-sizing: border-box; /* prevents extra width from being added */
   }
@@ -347,7 +334,39 @@ nav {
     }
   }
 
+  .bio-title, 
+  .upcoming-title {
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+  }
+
+
+/* book release party section */
+.may-10th-title {
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+}
+
+img {
+    max-width:100%;
+}
+ 
+.event-cover {
+    padding-left: 20px;
+    margin-left: 1px;
+}
+
+.event-info {
+    font-family: 'Source Serif Pro', serif;
+    padding-top:8px;
+    /* font-size: 1.5em; */
+}
+
+/* end book release party section*/
+
 /*END BGBT PAGE STYLING*/
+
+
 
 /*footer*/
 
