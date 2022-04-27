@@ -1,0 +1,194 @@
+/*bgbt page*/
+/*BEGIN BGBT PAGE STYLING*/
+body {
+    /* font-family: 'Source Serif Pro', serif; */
+    background-color:#FEFEFA;
+} 
+
+/*making images responsive*/
+@media only screen and (min-device-width: 300px) {
+    .responsive {
+        width: 100%;
+        height: auto;
+        /* max-width:400px; */
+      }
+}
+
+
+#site-name{
+    color: #5d2412;
+    font-size: 1.7em;
+    font-family: 'Source Serif Pro', serif;
+    padding-left:110px;
+
+}
+
+.nav-link {
+   color: #5d2412 !important;
+   font-family: 'Source Serif Pro', serif;
+   font-size:25px;
+   font-weight:bold;
+   padding-left:5px;
+}
+
+nav {
+    font-family: 'Source Serif Pro', serif;
+
+}
+
+.bio-title {
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+}
+
+.char2, 
+.char3,
+.char4,
+.char5 {
+    color:#5d2412;
+    font-size:2.1em;
+    font-weight:bold;
+}
+
+.bgbt-bio {
+    font-size: 1.2em;
+    overflow:hidden;
+    padding:15px;
+    font-family: 'Source Serif Pro', serif;
+
+}
+
+#bgbt-media-links li{
+    display:inline;
+    font-family: 'Source Serif Pro', serif;
+
+}
+
+/*social media icons*/
+.fa-2x{
+    color:  #5d2412;
+    padding: 5px;
+    font-size:2em;
+}
+
+.social-media {
+    color:  #5d2412;
+    text-decoration: none;
+}
+
+.social-media:hover {
+    color:  #5d2412;
+}
+
+.video-title {
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+}
+
+
+  .upcoming-title {
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+  }
+
+/*embedded videos*/
+/*border-radius: 15px;*/
+/* extra div which gets the border  */
+.embed-border {
+    border: 11px solid #5d2412;
+    border-radius: 20px;
+    box-sizing: border-box; /* prevents extra width from being added */
+  }
+  
+  /* aspect ratio styles */
+  .embed-responsive {
+    position: relative;
+    overflow: hidden;
+    height: 0;
+    padding-bottom: 56.25%;
+  }
+  .embed-responsive iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* optional styles */
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  .wrapper {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  /* You can use media queries to change appearance. 
+  In this example, the border around the video is 
+  1px wide and blue by default (see line #3 above).
+  
+  The  media query below is changing the color and 
+  width of the border around the video for devices 
+  with screens larger than 576px wide. */
+  
+  @media only screen and (min-width: 576px) {
+    .embed-border {
+      border: 5px solid #5d2412;
+    }
+  }
+  
+  /* You can change the same parameter multiple times
+  for different screens, or change many things at once.
+  The example below has another change for the border, 
+  as well as making the .wrapper a bit larger. */
+  @media only screen and (min-width: 768px) {
+    .embed-border {
+      border: 8px solid #5d2412;
+    }
+    .wrapper {
+      max-width: 700px;
+    }
+  }
+
+
+
+
+/* book release party section */
+#boyznthevoid {
+    font-family: 'Source Serif Pro', serif;
+    background-color: #f5cea5;
+    padding-top:15px;
+    padding-bottom:15px;
+
+}
+
+.may-10th-title {
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+}
+
+img {
+    max-width:100%;
+}
+ 
+.event-cover {
+    padding-left: 20px;
+    margin-left: 1px;
+}
+
+.event-info {
+    font-family: 'Source Serif Pro', serif;
+    overflow: hidden;
+    padding-top:8px;
+    font-size: 1.2em;
+}
+
+/* end book release party section*/
+
+/*END BGBT PAGE STYLING*/
