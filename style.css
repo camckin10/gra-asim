@@ -81,7 +81,7 @@ body {
 }
 
 .about-text {
-    font-size: 1em;
+    font-size: 1.2em;
     font-family: 'Source Serif Pro', serif;
 
 }
@@ -358,8 +358,9 @@ img {
 
 .event-info {
     font-family: 'Source Serif Pro', serif;
+    overflow: hidden;
     padding-top:8px;
-    /* font-size: 1.5em; */
+    font-size: 1.2em;
 }
 
 /* end book release party section*/
