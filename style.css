@@ -226,22 +226,6 @@ body {
     padding:28px;
 }
 
-/*press page*/
-
-.press-header {
-    width:100%;
-    padding:24px;
-}
-
-#press-titles {
-    color: #5d2412 !important;
-    text-decoration: none;
-}
-
-#press-titles:hover {
-    color:#F4D8A2;
-}
-
 /*bgbt page*/
 /*BEGIN BGBT PAGE STYLING*/
 nav {
@@ -368,6 +352,22 @@ img {
 /*END BGBT PAGE STYLING*/
 
 
+
+/*press page*/
+
+.press-header {
+    width:100%;
+    padding:24px;
+}
+
+#press-titles {
+    color: #5d2412 !important;
+    text-decoration: none;
+}
+
+#press-titles:hover {
+    color:#F4D8A2;
+}
 
 /*footer*/
 
